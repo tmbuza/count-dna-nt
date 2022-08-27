@@ -1,1 +1,1 @@
-# count-dna-nt
+# Count Nucleotides in a DNA Sequence
